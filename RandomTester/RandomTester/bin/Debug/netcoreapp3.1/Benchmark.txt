@@ -1,0 +1,48 @@
+RNG Crypto Output:
+With Iteration Count: 10
+Elapsed Time:00:00:00.0005756
+
+Normal Random
+With Iteration Count: 10
+Elapsed Time:00:00:00.0000173
+
+RNG Crypto Output:
+With Iteration Count: 100
+Elapsed Time:00:00:00.0007185
+
+Normal Random
+With Iteration Count: 100
+Elapsed Time:00:00:00.0000239
+
+RNG Crypto Output:
+With Iteration Count: 1000
+Elapsed Time:00:00:00.0006746
+
+Normal Random
+With Iteration Count: 1000
+Elapsed Time:00:00:00.0000285
+
+RNG Crypto Output:
+With Iteration Count: 10000
+Elapsed Time:00:00:00.0018993
+
+Normal Random
+With Iteration Count: 10000
+Elapsed Time:00:00:00.0001455
+
+RNG Crypto Output:
+With Iteration Count: 100000
+Elapsed Time:00:00:00.0146621
+
+Normal Random
+With Iteration Count: 100000
+Elapsed Time:00:00:00.0013175
+
+RNG Crypto Output:
+With Iteration Count: 1000000
+Elapsed Time:00:00:00.1522626
+
+Normal Random
+With Iteration Count: 1000000
+Elapsed Time:00:00:00.0162935
+

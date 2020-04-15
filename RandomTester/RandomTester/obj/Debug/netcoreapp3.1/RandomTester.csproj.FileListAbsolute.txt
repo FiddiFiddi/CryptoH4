@@ -1,0 +1,12 @@
+C:\Code\RandomTester\RandomTester\bin\Debug\netcoreapp3.1\RandomTester.exe
+C:\Code\RandomTester\RandomTester\bin\Debug\netcoreapp3.1\RandomTester.deps.json
+C:\Code\RandomTester\RandomTester\bin\Debug\netcoreapp3.1\RandomTester.runtimeconfig.json
+C:\Code\RandomTester\RandomTester\bin\Debug\netcoreapp3.1\RandomTester.runtimeconfig.dev.json
+C:\Code\RandomTester\RandomTester\bin\Debug\netcoreapp3.1\RandomTester.dll
+C:\Code\RandomTester\RandomTester\bin\Debug\netcoreapp3.1\RandomTester.pdb
+C:\Code\RandomTester\RandomTester\obj\Debug\netcoreapp3.1\RandomTester.csprojAssemblyReference.cache
+C:\Code\RandomTester\RandomTester\obj\Debug\netcoreapp3.1\RandomTester.AssemblyInfoInputs.cache
+C:\Code\RandomTester\RandomTester\obj\Debug\netcoreapp3.1\RandomTester.AssemblyInfo.cs
+C:\Code\RandomTester\RandomTester\obj\Debug\netcoreapp3.1\RandomTester.dll
+C:\Code\RandomTester\RandomTester\obj\Debug\netcoreapp3.1\RandomTester.pdb
+C:\Code\RandomTester\RandomTester\obj\Debug\netcoreapp3.1\RandomTester.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Code\RandomTester\Hashing\bin\Debug\netcoreapp3.1\Hashing.exe
+C:\Code\RandomTester\Hashing\bin\Debug\netcoreapp3.1\Hashing.deps.json
+C:\Code\RandomTester\Hashing\bin\Debug\netcoreapp3.1\Hashing.runtimeconfig.json
+C:\Code\RandomTester\Hashing\bin\Debug\netcoreapp3.1\Hashing.runtimeconfig.dev.json
+C:\Code\RandomTester\Hashing\bin\Debug\netcoreapp3.1\Hashing.dll
+C:\Code\RandomTester\Hashing\bin\Debug\netcoreapp3.1\Hashing.pdb
+C:\Code\RandomTester\Hashing\obj\Debug\netcoreapp3.1\Hashing.csprojAssemblyReference.cache
+C:\Code\RandomTester\Hashing\obj\Debug\netcoreapp3.1\Hashing.AssemblyInfoInputs.cache
+C:\Code\RandomTester\Hashing\obj\Debug\netcoreapp3.1\Hashing.AssemblyInfo.cs
+C:\Code\RandomTester\Hashing\obj\Debug\netcoreapp3.1\Hashing.dll
+C:\Code\RandomTester\Hashing\obj\Debug\netcoreapp3.1\Hashing.pdb
+C:\Code\RandomTester\Hashing\obj\Debug\netcoreapp3.1\Hashing.genruntimeconfig.cache
